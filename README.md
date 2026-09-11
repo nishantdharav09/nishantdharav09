@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Nishant!
 
-<!--
-**nishantdharav09/nishantdharav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 🐍 Python Learner | 🤖 AI/ML Enthusiast | 📱 Android Developer
 
-Here are some ideas to get you started:
+I'm a student who loves learning **programming and new technologies**.
+Currently, I'm exploring **Python, AI/ML, Android Development, and Web Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 🎓 I'm a student
+* 🐍 Learning Python
+* 🤖 Exploring AI & Machine Learning
+* 📱 Learning Android Development
+* 🌐 I also enjoy creating websites
+* 🚀 Learning by building small projects
+
+## 🛠️ Skills I'm Learning
+
+* Python 🐍
+* Java ☕
+* HTML & CSS 🌐
+* JavaScript ⚡
+* Android Development 📱
+* AI & Machine Learning 🤖
+* Git & GitHub 🔧
+
+## 🚀 My Projects
+
+### 🛡️ Women Safety App
+
+An Android project with features like SOS alerts, shake detection, emergency contacts, and location sharing.
+
+### 🌐 My Portfolio Website
+
+Check out my personal website:
+
+👉 [Visit My Website](https://nishantdharav.vercel.app)
+
+## 📚 Currently Learning
+
+🌱 Python
+🌱 AI/ML
+🌱 Android Development
+🌱 Web Development
+
+## 🎯 My Goal
+
+**Keep Learning • Keep Building • Keep Improving 🚀**
+
+Thanks for visiting my profile! 😊
